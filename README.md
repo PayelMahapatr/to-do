@@ -89,3 +89,4 @@ and open this URL in the browser to see the homepage ```http://127.0.0.1:8000```
 
 ## Contributing to this project
 To contribute to this project, create a branch in your local development environment. After you are finished with your changes, push the changes to your fork and make a pull request to the main repo `git@github.com:amakarudze/to-do.git` where you forked this project.
+Happy coding!
